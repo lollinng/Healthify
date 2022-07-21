@@ -1,5 +1,5 @@
 # Healthify
-a program made to track and monitor the nutrient intake as well as health of students enrolled in **mid deal** intiative .
+a program made to track and monitor the nutrient intake as well as health of students enrolled in **mid day meal** intiative .
 <br><br>
 **Tech Stack** <br><br>
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
